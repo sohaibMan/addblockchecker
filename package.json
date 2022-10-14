@@ -1,0 +1,24 @@
+{
+  "name": "addblockchecker",
+  "version": "1.0.0",
+  "description": "this package is made to check if the user using an addblocker or not as a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohaibMan/addblockchecker.git"
+  },
+  "keywords": [
+    "addblockcheker",
+    "checkads",
+    "blockadds"
+  ],
+  "author": "sohaib manah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohaibMan/addblockchecker/issues"
+  },
+  "homepage": "https://github.com/sohaibMan/addblockchecker#readme"
+}
