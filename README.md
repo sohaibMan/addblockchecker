@@ -9,4 +9,3 @@ this package return a promise so await it to get the result
 
 ```bash
 npm i addblockchecker
-```js
